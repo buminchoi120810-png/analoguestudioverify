@@ -1,0 +1,12 @@
+{
+  "name": "analogue-verify-bot",
+  "version": "1.0.0",
+  "description": "ANALOGUE STUDIO Verify Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
