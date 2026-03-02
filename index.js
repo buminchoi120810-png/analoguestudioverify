@@ -41,7 +41,7 @@ client.once(Events.ClientReady, async () => {
   const embed = new EmbedBuilder()
     .setTitle('ANALOGUE STUDIO 에서 인증하기')
     .setDescription('아래 버튼을 눌러 인증해주세요')
-    .setImage('https://ibb.co/Vc9ksH79')
+    .setImage('https://cdn.discordapp.com/attachments/1477654303664508981/1478026890991370413/2026-03-01_223707.png?ex=69a6e74f&is=69a595cf&hm=42fd01e8025633f613815d4b9ea32c6733ac0bb17bffd41d26cb93425eaac07c')
     .setColor(0x2b2d31);
 
   const button = new ButtonBuilder()
